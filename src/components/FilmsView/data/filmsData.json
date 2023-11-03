@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Над кольцом",
+    "genre": "Драма",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/3a9813a6-8eba-4325-8636-c029e71d08b9/1920x",
+    "price": 3000,
+    "currency": "₽",
+    "countStar": 5
+  },
+  {
+    "id": "2",
+    "title": "Пуля",
+    "genre": "Боевик",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/c6be8623-a896-4bd5-941f-28c856b4f008/1920x",
+    "price": 2000,
+    "currency": "₽",
+    "countStar": 4
+  },
+  {
+    "id": "3",
+    "title": "Поэтичная Джастис",
+    "genre": "Мелодрама",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/b4a31c05-0335-4777-8135-b25a603db2f0/1920x",
+    "price": 1500,
+    "currency": "₽",
+    "countStar": 2
+  },
+  {
+    "id": "4",
+    "title": "Авторитет",
+    "genre": "Триллер",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/18bfc196-9dcd-47a0-a083-f5ec95659e99/1920x",
+    "price": 1200,
+    "currency": "₽",
+    "countStar": 3
+  },
+  {
+    "id": "5",
+    "title": "Преступные связи",
+    "genre": "Боевик",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/f403accf-03d2-4c69-ab80-67722a5f167f/1920x",
+    "price": 1800,
+    "currency": "₽",
+    "countStar": 2
+  }
+]
