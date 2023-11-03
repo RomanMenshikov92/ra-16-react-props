@@ -1,16 +1,12 @@
 # Props
 
-<!-- [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ulei6fotn2l4tkq9?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/ra-16-react-props
-)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ri5lh6s1l0va859j?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/ra-16-react-props)
 
-[![Pages build status](https://github.com/RomanMenshikov92/ra-16-react-props
-/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RomanMenshikov92/ra-16-react-props
-/actions/workflows/pages/pages-build-deployment) -->
+[![Pages build status](https://github.com/RomanMenshikov92/ra-16-react-props/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RomanMenshikov92/ra-16-react-props/actions/workflows/pages/pages-build-deployment)
 
 ---
 
-<!-- ## [GutHub Pages](https://romanmenshikov92.github.io/ra-16-react-props
-/) -->
+## [GutHub Pages](https://romanmenshikov92.github.io/ra-16-react-props/)
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
