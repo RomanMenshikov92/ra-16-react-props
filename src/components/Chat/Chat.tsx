@@ -2,7 +2,7 @@ import MessageHistoryChild from "./MessageHistoryChild";
 import messagesJson from "./data/messagesData.json";
 import "./chat.css";
 
-export default function Chat() {
+export function Chat() {
   return (
     <div className="clearfix container">
       <div className="chat">
@@ -13,3 +13,5 @@ export default function Chat() {
     </div>
   );
 }
+
+export default Chat;
