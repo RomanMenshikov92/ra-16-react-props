@@ -1,7 +1,7 @@
 import "./App.css";
-import { FilmsView } from "./components/FilmsView";
-import { ListOffers } from "./components/ListOffers";
-import { Chat } from "./components/Chat";
+import FilmsView from "./components/FilmsView/FilmsView";
+import ListOffers from "./components/ListOffers/ListOffers";
+import Chat from "./components/Chat/Chat";
 
 function App() {
   return (
